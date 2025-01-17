@@ -1,5 +1,5 @@
 
-<h1 align="left">¡Hola mundo, Soy Manuel, Programador y Docente Sordo.! <img src="https://github.com/images/mona-whisper.gif" width="25px"> </h1>
+<h2 align="left">¡Hola mundo, Soy Manuel, Programador y Docente Sordo.! <img src="https://github.com/images/mona-whisper.gif" width="25px"> </h2>
 
 <h3 align="left">Instructor de programación web y desarrollo de software en Lengua de Señas Mexicana (LSM).</h3>
 
